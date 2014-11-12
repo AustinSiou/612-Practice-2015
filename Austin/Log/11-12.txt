@@ -1,3 +1,0 @@
-Date Submitted: 11-12-14
-
-Today, we learned about c++.
